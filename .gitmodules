@@ -1,0 +1,3 @@
+[submodule "smash-rules"]
+	path = smash-rules
+	url = https://github.com/sylvanelite/zkss-smash-rules
